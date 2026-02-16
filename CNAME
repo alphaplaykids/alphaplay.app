@@ -1,1 +1,9 @@
-alphaplay.app
+git clone https://github.com/alphaplaykids/alphaplay.app.git
+cd alphaplay.app
+rm "files (24).zip"
+# Copy all your project files into this folder
+# Rename index_html.html to index.html
+mv index_html.html index.html
+git add .
+git commit -m "Add site files"
+git push
