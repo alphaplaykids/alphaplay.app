@@ -1,6 +1,6 @@
 {
-  "name": "AlphaPlay™ Game Generator",
-  "short_name": "AlphaPlay™",
+  "name": "AlphaPlayâ„¢ Game Generator",
+  "short_name": "AlphaPlayâ„¢",
   "description": "28 kinesthetic spelling games in 37 languages. Students wear letter pinnies and physically spell words.",
   "id": "/",
   "start_url": "/",
@@ -43,7 +43,7 @@
   "screenshots": [
     {
       "src": "/ogimage.png",
-      "sizes": "1204x644",
+      "sizes": "1200x630",
       "type": "image/png",
       "form_factor": "wide",
       "label": "AlphaPlay Game Generator - 28 kinesthetic spelling games"
